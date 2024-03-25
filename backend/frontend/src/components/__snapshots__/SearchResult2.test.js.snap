@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResults component renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <h3>
+        Track 1
+      </h3>
+      <p>
+        Artist: 
+        Artist 1
+      </p>
+      <button>
+        🤍
+      </button>
+    </div>
+    <div>
+      <h3>
+        Track 2
+      </h3>
+      <p>
+        Artist: 
+        Artist 2
+      </p>
+      <button>
+        🤍
+      </button>
+    </div>
+  </div>
+</div>
+`;
