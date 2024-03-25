@@ -1,4 +1,5 @@
-iTunes Media Search API
+#iTunes Media Search API
+
 This is a simple Express.js application that provides an endpoint for searching media through the iTunes Search API. It utilizes the axios library for making HTTP requests to the iTunes API and the helmet middleware for enhancing security headers.
 
 Getting Started
